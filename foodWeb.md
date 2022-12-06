@@ -14,6 +14,10 @@ flowchart LR
   cod[Cod<br>Fish] 
   salmon[Salmon<br>Fish]
   herring[Herring<br>Fish]
+  tuna[Tuna<br>Fish]
+  
+  
+  anchovie[Anchovies]
   
   %%Plants
   plankton[Plankton]
@@ -29,25 +33,35 @@ flowchart LR
   krill -- Eats --> plankton
   krill -- Eats --> algae
   
-  clam --> Eats --> plankton
-  clam --> Eats --> algae
+  clam -- Eats --> plankton
+  clam -- Eats --> algae
   
-  sardine --> Eats --> plankton
+  sardine -- Eats --> plankton
+  anchovie -- Eats --> plankton
+  
+  tuna -- Eats --> squid
+  tuna -- Eats --> herring
+  tuna -- Eats --> clam
   
   squid -- Eats --> plankton
   squid -- Eats --> algae
   squid -- Eats --> krill
   squid -- Eats --> clam
   squid -- Eats --> squid
+  
+  cod -- Eats --> herring
+  cod -- Eats --> clam
     
   killerwhale -- Eats --> seal
   killerwhale -- Eats --> salmon
   killerwhale -- Eats --> herring
+  killerwhale -- Eats --> tuna
+  killerwhale -- Eats --> penguin
   
   penguin -- Eats --> krill
   penguin -- Eats --> squid
   penguin -- Eats --> sardine
-  penguin -- Eats --> anchovies
+  penguin -- Eats --> anchovie
   penguin -- Eats --> cod
       
   dolphin -- Eats --> squid 
@@ -58,10 +72,16 @@ flowchart LR
   
   seal -- Eats --> penguin
   seal -- Eats --> krill
+  seal -- Eats --> herring
+  seal -- Eats --> squid
+  seal -- Eats --> salmon
   
   herring -- Eats --> plankton
   herring -- Eats --> krill
   
+  barracuda -- Eats --> anchovie
+  barracuda -- Eats --> herring
+  barracuda -- Eats --> tuna
   
   
 
