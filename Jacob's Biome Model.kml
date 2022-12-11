@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document>
+<Document id="1ue5OrWOxHfiWiNW80hoNuMFcKodyCo5w">
 	<name>Jacob&apos;s Biome Model</name>
 	<description>Science Project
 Mrs. Olsen
@@ -26,7 +26,7 @@ https://www.fisheries.noaa.gov/species/pacific-herring
 https://www.fisheries.noaa.gov/species/atlantic-herring
 https://education.nationalgeographic.org/resource/plankton
 https://en.wikipedia.org/wiki/Bacterioplankton</description>
-	<gx:CascadingStyle kml:id="__managed_style_2E17A0731A2637E4AD68">
+	<gx:CascadingStyle kml:id="__managed_style_120DEC313126383611EC">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -49,7 +49,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_170321B70C2637E4AD68">
+	<gx:CascadingStyle kml:id="__managed_style_0BCD56F49126383611EC">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -71,19 +71,19 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_046FB7AD2F2637E4AD68">
+	<StyleMap id="__managed_style_048EC2E8D226383611EB">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_170321B70C2637E4AD68</styleUrl>
+			<styleUrl>#__managed_style_0BCD56F49126383611EC</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_2E17A0731A2637E4AD68</styleUrl>
+			<styleUrl>#__managed_style_120DEC313126383611EC</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Placemark id="08DC59D6562637DD565F">
 		<name>Orca, Herring, Plankton (Norway)</name>
-		<description><![CDATA[<div>Orca</div><div>* Ocean's Top Predator (Apex/Tertiary Predator<br></div><div>* Consumer<br></div><div>* Note: Orcas are found in all Oceans<br></div><div><br></div><div>Herring <br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div><div><br></div>]]></description>
+		<description><![CDATA[<div>Orca<br></div><div>* Ocean's Top Predator (Apex/Tertiary Predator<br></div><div>* Consumer<br></div><div>* Note: Orcas are found in all Oceans<br></div><div><br></div><div>Herring<br></div><div> * Predator and Prey</div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton<br></div><div> * Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div><div><br></div>]]></description>
 		<LookAt>
 			<longitude>4.182024700183698</longitude>
 			<latitude>59.91887973767363</latitude>
@@ -94,7 +94,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>6739086.879669428</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -107,7 +107,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 	</Placemark>
 	<Placemark id="01548C637B2637E28C64">
 		<name>Orca, Herring, Plankton (Alaska)</name>
-		<description><![CDATA[<div>Orca<br></div><div>* Ocean's Top Predator (Apex/Tertiary Predator<br></div><div>* Consumer<br></div><div>* Note: Orcas are found in all Oceans<br></div><div><br></div><div>Herring <br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<description><![CDATA[<div>Orca<br></div><div>* Ocean's Top Predator (Apex/Tertiary Predator<br></div><div>* Consumer<br></div><div>* Note: Orcas are found in all Oceans<br></div><div><br></div><div>Herring <br></div><div>* Predator (Zooplankton)<br></div><div>* Prey (Eaten by many other Predators)<br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div>]]></description>
 		<LookAt>
 			<longitude>-155.8039522708478</longitude>
 			<latitude>61.63516241506837</latitude>
@@ -118,7 +118,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>3707840.968496203</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -131,7 +131,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 	</Placemark>
 	<Placemark id="08DF80C9B52637F89777">
 		<name>Orca, Krill, Plankton (Antartica) #1</name>
-		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producers (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div>]]></description>
 		<LookAt>
 			<longitude>147.4309335996909</longitude>
 			<latitude>-65.6472865392013</latitude>
@@ -142,7 +142,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>10803482.22276449</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -155,7 +155,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 	</Placemark>
 	<Placemark id="0C3EFF08432637F8E5BC">
 		<name>Orca, Krill, Plankton (Antartica) #2</name>
-		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div>]]></description>
 		<LookAt>
 			<longitude>-141.1230244788508</longitude>
 			<latitude>-78.52218075419349</latitude>
@@ -166,7 +166,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>11792752.87083507</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -179,7 +179,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 	</Placemark>
 	<Placemark id="07A19655DE2637FE9771">
 		<name>Orca, Herring, Plankton (Pacific) </name>
-		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Pacific Herring<br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton) <br></div><div>* Consumer<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Pacific Herring<br></div><div>* Predator (Zooplankton)<br></div><div>* Prey (Eaten by many other Predators)<br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div>]]></description>
 		<LookAt>
 			<longitude>-151.4813986217163</longitude>
 			<latitude>48.89584680777555</latitude>
@@ -190,7 +190,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>7006941.547189951</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -203,7 +203,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 	</Placemark>
 	<Placemark id="0F2E8037422638043EA8">
 		<name>Orca, Herring, Plankton (Beaufort Sea)</name>
-		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Herring <br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Herring <br></div><div>* Predator (Zooplankton)<br></div><div>* Prey (Eaten by many other Predators)<br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div>]]></description>
 		<LookAt>
 			<longitude>-143.0800440288043</longitude>
 			<latitude>77.21793523870294</latitude>
@@ -214,7 +214,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>2758849.91161108</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -227,7 +227,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 	</Placemark>
 	<Placemark id="0E73EC10B426380ABDFA">
 		<name>Orca, Herring, Plankton (Atlantic Region)</name>
-		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Herring <br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Herring <br></div><div>* Predator (Zooplankton)<br></div><div>* Prey (Eaten by many other Predators)<br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<b></b><br></div>]]></description>
 		<LookAt>
 			<longitude>-51.06248819151464</longitude>
 			<latitude>54.85400053617131</latitude>
@@ -238,7 +238,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>3888091.483996511</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
