@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Jacob&apos;s Biome Model</name>
+	<description>Science Project
+Mrs. Olsen
+
+This attempts to map out where several animals can be found a Marine Biome. 
+
+The animals in this map are a simple food web 
+* Plankton
+* Krill
+* Herring
+* Killer Whale
+
+About the Plankton:
+I also learned there more than 2 types of plankon.  There are also
+* Bacterioplankton: Consumer &amp; Producer 
+* Virioplankton: Consumer &amp; Producer
+I do not list these on the map, because these are probably not consumed by the other animals listed.  
+
+Works Cited:
+https://www.fisheries.noaa.gov/species/killer-whale
+https://www.nationalgeographic.com/animals/invertebrates/facts/krill
+https://www.fisheries.noaa.gov/species/pacific-herring
+https://www.fisheries.noaa.gov/species/atlantic-herring
+https://education.nationalgeographic.org/resource/plankton
+https://en.wikipedia.org/wiki/Bacterioplankton</description>
+	<gx:CascadingStyle kml:id="__managed_style_2E17A0731A2637E4AD68">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_170321B70C2637E4AD68">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_046FB7AD2F2637E4AD68">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_170321B70C2637E4AD68</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E17A0731A2637E4AD68</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="08DC59D6562637DD565F">
+		<name>Orca, Herring, Plankton (Norway)</name>
+		<description><![CDATA[<div>Orca</div><div>* Ocean's Top Predator (Apex/Tertiary Predator<br></div><div>* Consumer<br></div><div>* Note: Orcas are found in all Oceans<br></div><div><br></div><div>Herring <br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>4.182024700183698</longitude>
+			<latitude>59.91887973767363</latitude>
+			<altitude>-121.0680437116204</altitude>
+			<heading>57.47075824971847</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>6739086.879669428</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-22.06974886484044,69.18032228924956,665.5502473401259 -2.697107699902319,59.13833725306664,97.29676472149497 1.850892025089663,53.39522393076923,-102.5573662105347 7.086830335917103,54.19820314132674,556.8735746164756 7.46370444562928,57.037393644552,-770.0916169994274 4.169221842535555,58.75352167128715,611.0773411651672 5.536542187089941,62.78169150369548,-3474.842729180214 15.06470832465783,69.58554784686709,-1087.585149457087 26.67844760312348,71.64485496266869,167.4379369209327 41.40792220218272,68.45742409925961,-204.6540230870737 48.90503195312355,69.88440119755977,-5.073364431326757 57.54201059234391,77.9222887776007,-9943.236976553704 -9.820353833192311,81.3853245351916,1077.28769126184 -22.06974886484044,69.18032228924956,665.5502473401259 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="01548C637B2637E28C64">
+		<name>Orca, Herring, Plankton (Alaska)</name>
+		<description><![CDATA[<div>Orca<br></div><div>* Ocean's Top Predator (Apex/Tertiary Predator<br></div><div>* Consumer<br></div><div>* Note: Orcas are found in all Oceans<br></div><div><br></div><div>Herring <br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<LookAt>
+			<longitude>-155.8039522708478</longitude>
+			<latitude>61.63516241506837</latitude>
+			<altitude>1305.942261398687</altitude>
+			<heading>56.71692409160543</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3707840.968496203</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-172.4297063324682,73.11540937854625,295.6561632863811 -180.2673019288557,69.45426955275236,694.848963500371 -169.6362654192551,66.39850273363569,85.73955602465874 -175.9479254759053,63.75371758714198,-509.782706200325 -186.3486561446447,61.40724091584426,-485.7460895314309 -193.1497994741706,54.17009108611974,-3564.611922757289 -172.842366178412,47.65637075471253,40.15883213070416 -159.833474553592,46.74917981931186,466.6069086192738 -136.9992324692089,54.42989505035759,-3201.365891425249 -139.5588300213832,58.51656603928483,-447.2395688563019 -148.3088290976373,59.63511786217229,-150.0008871179001 -148.2762354620847,57.46374679758473,-4296.575807347671 -168.6851637360223,52.02159684521522,602.9209873446428 -170.3406517376927,53.02378487741075,189.5971000607566 -158.823168863442,58.16492345944538,-1088.866954650455 -163.2451515330628,58.53204700615152,-1041.5242825003 -166.6427624581285,62.04096993117339,-642.2273185545067 -162.9173097664136,63.70341277501412,1332.641452722322 -168.3831057291343,65.70564636383273,-1969.523862413861 -164.4910242131091,66.94036195943508,-540.5265941712621 -167.3413234469427,68.41469140322069,388.0737413505777 -156.8872428253787,71.72931688859343,464.1924087391152 -172.4297063324682,73.11540937854625,295.6561632863811 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="08DF80C9B52637F89777">
+		<name>Orca, Krill, Plankton (Antartica) #1</name>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producers (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<LookAt>
+			<longitude>147.4309335996909</longitude>
+			<latitude>-65.6472865392013</latitude>
+			<altitude>-854.7365345662594</altitude>
+			<heading>180.3955675871768</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99976847266213</gx:fovy>
+			<range>10803482.22276449</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-162.7091805360988,-48.20522633802873,-12062.62226384453 -202.2711786351938,-50.41898887962127,-2312.146363586914 -243.4311951681669,-52.20913703326082,-7236.526838483938 -283.6420038248536,-49.70613349528004,-1593.812871701109 -336.2224619299699,-52.04378355919947,-3064.943494771005 -380.3729711651342,-57.43783902905911,-5157.467199518113 -415.6633002299936,-65.31953915163761,1590.154757937785 -397.0879246465823,-75.20563634300926,-4788.243559989909 -365.5203509460702,-68.10442145886776,-5924.298240463196 -315.5066811435605,-64.37168985682062,-5820.282294067762 -278.3014171116146,-64.61154185807906,-10416.59610905834 -242.3270675603428,-63.11360914586577,-8105.834456680806 -202.247504462888,-62.7052506949458,-4443.440290002674 -177.7032178428134,-73.78174105546606,333.5858860342801 -124.687561066048,-71.89397045012338,-4793.303287347895 -126.2961494311959,-46.35921223110318,-6146.047577659923 -162.7091805360988,-48.20522633802873,-12062.62226384453 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0C3EFF08432637F8E5BC">
+		<name>Orca, Krill, Plankton (Antartica) #2</name>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<LookAt>
+			<longitude>-141.1230244788508</longitude>
+			<latitude>-78.52218075419349</latitude>
+			<altitude>-2607.310799188239</altitude>
+			<heading>103.2851033352815</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99976847266213</gx:fovy>
+			<range>11792752.87083507</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-126.046724365365,-45.84963412417205,-6203.710430048291 -124.6363907043753,-72.11915971428091,-5257.765155588622 -61.68891446602997,-63.02058460828568,-1562.682191960625 -40.28795978929501,-61.25106897006137,-2156.188598190256 -45.9916466539991,-55.62546367616901,-4409.584524460551 -73.54702143661983,-57.42205059616442,-6579.978565504323 -126.046724365365,-45.84963412417205,-6203.710430048291 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="07A19655DE2637FE9771">
+		<name>Orca, Herring, Plankton (Pacific) </name>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Pacific Herring<br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton) <br></div><div>* Consumer<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<LookAt>
+			<longitude>-151.4813986217163</longitude>
+			<latitude>48.89584680777555</latitude>
+			<altitude>-5749.368704823545</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999972127</gx:fovy>
+			<range>7006941.547189951</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-170.0359602143433,52.61666192019376,1208.108136475039 -160.8039210161471,57.19100678316762,-1937.608858668835 -165.7326172248602,63.52320122963393,-247.2198886056166 -174.9413458859753,65.01147754483463,-3381.186032607751 -194.0014604296325,54.40267882332036,-3349.3990362535 -166.511524870158,45.64161231050876,-4863.590120426717 -143.40650699265,42.40066584539388,-5589.148739865443 -131.9481823700141,29.57254197390862,-5682.153890980499 -119.8709955878885,20.59887415219642,-6518.061977538051 -110.647071951351,22.6213363714524,-407.8154722435785 -117.6219563279632,30.91938980664442,-2658.001171852219 -124.9942012890701,37.68712748374425,-9105.305699891984 -125.9346957623388,47.89370370661448,1040.345430329586 -134.0485680304876,55.03073000352934,130.1255946833141 -146.3909946757485,60.1955281099623,722.1048848334007 -170.0359602143433,52.61666192019376,1208.108136475039 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F2E8037422638043EA8">
+		<name>Orca, Herring, Plankton (Beaufort Sea)</name>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Herring <br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<LookAt>
+			<longitude>-143.0800440288043</longitude>
+			<latitude>77.21793523870294</latitude>
+			<altitude>462.1759422529534</altitude>
+			<heading>359.9719187900585</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999972127</gx:fovy>
+			<range>2758849.91161108</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-171.847478934684,73.56087910659826,1.18432330641866 -138.532878252636,69.76976522353347,134.9307997265421 -126.8437740626321,71.42590351944003,529.3323478743631 -119.8885274357313,77.71685455666234,371.0583994602008 -156.6327536563986,77.97276259745213,360.2502526371661 -171.847478934684,73.56087910659826,1.18432330641866 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E73EC10B426380ABDFA">
+		<name>Orca, Herring, Plankton (Atlantic Region)</name>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Herring <br></div><div>* Omnivore (Consumes both Phytoplankton and Zooplankton)<br></div><div>* Consumer<br></div><div><br></div><div>Plankton <br></div><div>* Phytoplankton: Producer (Photsynthesis)<br></div><div>* ZooPlankton: Consumer<br></div>]]></description>
+		<LookAt>
+			<longitude>-51.06248819151464</longitude>
+			<latitude>54.85400053617131</latitude>
+			<altitude>-1854.443566804586</altitude>
+			<heading>8.905200085112002</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999999</gx:fovy>
+			<range>3888091.483996511</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_046FB7AD2F2637E4AD68</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-54.41946632976248,51.58911375712023,-101.3475799558297 -52.08341227727354,49.01317200262874,665.7043199636214 -52.96968508301113,46.38317925855171,967.7679357960875 -58.28831789015886,46.73834141296825,383.5550808791117 -65.26465701274965,42.7885719113932,-729.5330480958826 -68.00812613461054,43.15827173078099,-1037.919405373292 -73.59607251684929,39.95064723052787,120.8024275960955 -76.01075187491131,34.86934690973923,277.6155831447989 -69.99644981645395,33.11631562826342,-5973.481396547331 -56.60389312344721,39.54857033598539,-4823.806998275865 -43.34648235700371,44.24860853164208,-5615.957876141856 -36.68704049792929,51.1629685218383,-308.3658154707508 -43.99491183980163,58.88921678571833,-207.6015858035297 -52.02949895153552,62.79126454480947,-1562.079679855578 -61.47758811829576,59.1186614906523,-139.265808930933 -54.41946632976248,51.58911375712023,-101.3475799558297 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
