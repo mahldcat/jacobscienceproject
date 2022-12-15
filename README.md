@@ -9,6 +9,40 @@ Directions to import this file can be found here:
 
 Note:  A video of this map can be seen at https://youtu.be/oTztfc3mCYU
 
+### Summary from the google earth map
+The summary: Science Project
+Mrs. Olsen
+
+This attempts to map out where several animals can be found a Marine Biome. 
+
+The animals in this map form a simple food web, and are examples of biotic features
+* Plankton
+* Krill
+* Herring
+* Killer Whale
+* Penguins
+
+Abiotic features of a marine biome include
+* Sunlight (which is the start for every food chain) 
+* Temperature (see the Weather Graphs spreadsheet for further details)
+* Ocean Depth 
+* Amount of Oxygen in the water
+* Amount of Salt
+
+About the Plankton:
+I also learned there more than 2 types of plankon.  There are also
+* Bacterioplankton: Consumer & Producer 
+* Virioplankton: Consumer & Producer
+I do not list these on the map, because these are probably not consumed by the other animals listed.  
+
+Works Cited:
+https://www.fisheries.noaa.gov/species/killer-whale
+https://www.nationalgeographic.com/animals/invertebrates/facts/krill
+https://www.fisheries.noaa.gov/species/pacific-herring
+https://www.fisheries.noaa.gov/species/atlantic-herring
+https://education.nationalgeographic.org/resource/plankton
+https://en.wikipedia.org/wiki/Bacterioplankton
+
 ## Food Web
 [FoodWeb](https://github.com/mahldcat/jacobscienceproject/blob/main/foodWeb.md)
 This uses a markup language called Mermaid to showcase the food web for different marine animals 
