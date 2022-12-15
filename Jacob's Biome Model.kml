@@ -18,8 +18,8 @@ Abiotic features of a marine biome include
 * Sunlight (which is the start for every food chain) 
 * Temperature (see the Weather Graphs spreadsheet for further details)
 * Ocean Depth 
-* Amount of Oxygen in the water
 * Amount of Salt
+* Major Ocean Currents
 
 About the Plankton:
 I also learned there more than 2 types of plankon.  There are also
@@ -33,8 +33,75 @@ https://www.nationalgeographic.com/animals/invertebrates/facts/krill
 https://www.fisheries.noaa.gov/species/pacific-herring
 https://www.fisheries.noaa.gov/species/atlantic-herring
 https://education.nationalgeographic.org/resource/plankton
-https://en.wikipedia.org/wiki/Bacterioplankton</description>
-	<gx:CascadingStyle kml:id="__managed_style_2B8472506426490FE69C">
+https://en.wikipedia.org/wiki/Bacterioplankton
+https://www.britannica.com/place/Arctic-Ocean
+https://oceanservice.noaa.gov/facts/light_travel.html
+https://homework.study.com/explanation/how-much-salt-is-in-the-arctic-ocean.html
+https://oceanliteracy.unesco.org/how-deep-is-the-ocean/
+https://oceanservice.noaa.gov/facts/light_travel.html
+https://www.britannica.com/place/Indian-Ocean/Upwelling
+https://oceanexplorer.noaa.gov/facts/pacific-size.html
+https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html
+https://www.britannica.com/place/Atlantic-Ocean
+</description>
+	<gx:CascadingStyle kml:id="__managed_style_275425EA34264D62A10E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_11DCE4A972264D62A10E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/simple_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>panel</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FC4738245264D62A10E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_11DCE4A972264D62A10E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_275425EA34264D62A10E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0C9414967B264D61A5A1">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -57,7 +124,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_19E1C6734326490FE69C">
+	<gx:CascadingStyle kml:id="__managed_style_1D9A063C4D264D61A5A0">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -79,14 +146,14 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_05CF85A14626490FE69C">
+	<StyleMap id="__managed_style_0185545724264D61A5A0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_19E1C6734326490FE69C</styleUrl>
+			<styleUrl>#__managed_style_1D9A063C4D264D61A5A0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_2B8472506426490FE69C</styleUrl>
+			<styleUrl>#__managed_style_0C9414967B264D61A5A1</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Placemark id="08DC59D6562637DD565F">
@@ -102,7 +169,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>6739086.879669428</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
+		<styleUrl>#__managed_style_0185545724264D61A5A0</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -126,7 +193,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>3707840.968496203</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
+		<styleUrl>#__managed_style_0185545724264D61A5A0</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -150,7 +217,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>10803482.22276449</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
+		<styleUrl>#__managed_style_0185545724264D61A5A0</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -174,7 +241,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>11792752.87083507</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
+		<styleUrl>#__managed_style_0185545724264D61A5A0</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -198,7 +265,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>7006941.547189951</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
+		<styleUrl>#__managed_style_0185545724264D61A5A0</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -222,7 +289,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>2758849.91161108</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
+		<styleUrl>#__managed_style_0185545724264D61A5A0</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -246,7 +313,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>3888091.483996511</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
+		<styleUrl>#__managed_style_0185545724264D61A5A0</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -256,6 +323,98 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 				</LinearRing>
 			</outerBoundaryIs>
 		</Polygon>
+	</Placemark>
+	<Placemark id="0D7FD88BA0264D61CF99">
+		<name>Atlantic Ocean Abiotic Features</name>
+		<description><![CDATA[<div>* Light level:&nbsp; Most animals listed in this map would be either at a "sunlight" (sea level to 200 meters) or the "twilight" zone (200 meters to 1000 meters), where it gets dark rapidly<br></div><div>* Average Depth 3,646 meters<br></div><div>* Max Depth 8,380 meters<br></div><div>* Salinity (how much salt) is between 34.5 -35.5 PPT<br></div><div> * Has two major current (water flows)--the North Atlantic and South Atlantic "gyres"<br></div><div><br></div><div><br></div><div><br></div><div><a href="https://oceanservice.noaa.gov/facts/light_travel.html">https://oceanservice.noaa.gov/facts/light_travel.html</a><br></div><div><a href="https://www.britannica.com/place/Atlantic-Ocean">https://www.britannica.com/place/Atlantic-Ocean</a><br></div><div><a href="https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html">https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html</a><br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-25.06833492195148</longitude>
+			<latitude>-1.397322613196636</latitude>
+			<altitude>-5675.494417887151</altitude>
+			<heading>0.000234752046742741</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>14227228.10669661</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC4738245264D62A10E</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUtnQis5bjJybUNMSmRDK1BpWUxUclVxSmxQRUJqdCtWeVRBUHZtZEtQT0s0UDZXeE9iblRjWHNDSjZ1QUR2Vmt3cExoTUtobU9uRVJkdHdtMXlpa2VSTU5nYmtXQXZtZ21PaVcvdVFhcHphRnNPTy80V241dTA4Unl3bUl1b29wOCtlYXd3V1IvK3huc3N3dXZyWDVCdzIzOE5PU3BVRjAzc3NQSG8wNHZvRUNrUDNsZEhJZTE4SWdGS3U5R2Z6SXpZNktnNG9KZXNzYnM3azBZaU54aTBQZTNsS2MxdExNTCtublN5L1c4UXhKZWdWWFRIRQ">
+				<gx:ImageUrl>https://doc-00-4s-mymaps.googleusercontent.com/untrusted/hostedimage/h5kve7ano7nfv7647e13frslbg/rh1q3f568ipak1iaslsfb06ca8/1671144562750/iR_ZpOL8abZ3_7OzFbjngBuNbfvHlfn9/03984634554912069166/5AKgB-9lXhkBAMO0aFaSwleFfqrA4x6klZGgkx9Ai81xsZAVUhdxOFOIkxwAjBNGHidjBiJSx1-N938LDRdPZLl_l9emv214vGYLsXLIY25WgoOco_hg3xhuGO5pxm9GLIVHOYA3XAo-q-PmPfMtU3D7aY_OMe6wmRCmqTfOXBiBE-Dt0aLcaa-apFhNeDz7r8w847g?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-26.18867800149013,1.231619184776967,-1700.843106759711</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06CCCF5E39264D6E7855">
+		<name>Pacific Ocean Abiotic Features</name>
+		<description><![CDATA[<div>* Light level:&nbsp; Most animals listed in this map would be either at a "sunlight" (sea level to 200 meters) or the "twilight" zone (200 meters to 1000 meters), where it gets dark rapidly <br></div><div>* Average Depth 4,000 meters<br></div><div>* Max Depth 11,000 meters<br></div><div>* Salinity (how much salt) is between 32 -34 PPT<br></div><div>* Has two major current (water flows)--the North Pacific and South Pacific "gyres"<br></div><div><br></div><div><a href="https://oceanexplorer.noaa.gov/facts/pacific-size.html">https://oceanexplorer.noaa.gov/facts/pacific-size.html</a><br></div><div><a href="https://oceanservice.noaa.gov/facts/light_travel.html">https://oceanservice.noaa.gov/facts/light_travel.html</a><br></div><div><a href="https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html">https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html</a><br></div>]]></description>
+		<LookAt>
+			<longitude>-156.5319295977405</longitude>
+			<latitude>-5.502014804610963</latitude>
+			<altitude>438.6567073194241</altitude>
+			<heading>0.0002345159401302449</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>14221114.26391125</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FC4738245264D62A10E</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUtnQis5bURoN3pyNWRmTHRXbXF2Tmp4SkJaYmdBU1pjVHNDRVM2cEtCQ1gwU216Slh5MXp0c1VsOUhuTVdQYlhiNW9NTHEweExGYUg0emNCVzVJSnFFZUdVa1pQUnBlWGh5bCtpNTdMcnV6VzNkMHlzZFkwcmxPR0pMSExYMmVodGdaZ0QxOUFzKzkvSmRlaTI0a2g4aGpadUxhUno3NmgwclRsRDJPK1k1bmVBWWs3L3JmVTlhSVQrQklUdUVnaW1SemoyanJyYW56SzVyV3VqNjJWRTVOaERDMkxickZnQ2VHeEFkRjZNbXRQTHIzR3d6Sg">
+				<gx:ImageUrl>https://doc-0g-4s-mymaps.googleusercontent.com/untrusted/hostedimage/h5kve7ano7nfv7647e13frslbg/sqr1rk2kl3oij3kdctf89oit58/1671145385000/iR_ZpOL8abZ3_7OzFbjngBuNbfvHlfn9/03984634554912069166/5AKgB-9nHyxbYSjkOFYrfeZEevgF8GnNSkqFFhnsOezTnB5nD6QJnw0evGlCtUoQMVJ7yZuDHdH7zMXoPoQQFvt-429NWwUEr9cBP_4oosQjvkkhosvdY90UAyUNGcCwCuzZ5JbkB2REAUlqT1YGv8I8nzkbbOWPS8ikDnKs7_30B9isWr5kVOVk0MmLQtitIuhge0A?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-159.301120612234,-5.107891568442531,-2046.110508425154</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04B45CEC8D264D73DAEE">
+		<name>Indian Ocean Abiotic Features</name>
+		<description><![CDATA[<div>* Light level:&nbsp; Most animals listed in this map would be either at a "sunlight" (sea level to 200 meters) or the "twilight" zone (200 meters to 1000 meters), where it gets dark rapidly <br></div><div>* Average Depth 3,741 meters<br></div><div>* Max Depth 7,450 meters<br></div><div>* Salinity (how much salt) is between 32 -37 PPT<br></div><div>* Has one major current (water flows)--Indian Ocean "gyres"<br></div><div><br></div><div><a href="https://oceanliteracy.unesco.org/how-deep-is-the-ocean/">https://oceanliteracy.unesco.org/how-deep-is-the-ocean/</a><br></div><div><a href="https://oceanservice.noaa.gov/facts/light_travel.html">https://oceanservice.noaa.gov/facts/light_travel.html</a><br></div><div><a href="https://www.britannica.com/place/Indian-Ocean/Upwelling">https://www.britannica.com/place/Indian-Ocean/Upwelling</a><br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>91.19277405086754</longitude>
+			<latitude>-22.95187333763782</latitude>
+			<altitude>-4664.173875039962</altitude>
+			<heading>0.0002343495908364164</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7791740.229560137</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0185545724264D61A5A0</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUtnQis5bHRiejg5eTdhV3hOQ0prbUhOS0k0cVlLVTVERFAvWThzNWR5R2FBUERaWDVxMnBzMC9Sa1BtRGw2cWJpcnoxWlhERitXQWhDTkZNaWFXenAyRzYvRVlSNHorNlgyWWwyWEREVWQwQTFsVHZKMmc4d21oZDdoeUgwMkhBc2tYOW5oR2hYQmRjbi8rZFNEZkdob3dNVWZyNUFFelBJejlJRVBMODlzN2xtT1ljV1lhVjNRVE42WmVIVnZ4S1VndElDVnExMTRPQWVTazRCRG0vK0k1WjZCTlozZW5BeGl4VllDZUdMbGNNcE5YSkJjdg">
+				<gx:ImageUrl>https://doc-0o-4s-mymaps.googleusercontent.com/untrusted/hostedimage/h5kve7ano7nfv7647e13frslbg/q582gt9ueofjj8bcj3ak8135s0/1671145758750/iR_ZpOL8abZ3_7OzFbjngBuNbfvHlfn9/03984634554912069166/5AKgB-9nE_gpjcZyCmn-KL_yJBukODuCwJKmHP8UY1ZlLabc-07QgpLp2q4KWt46ad9oTHrwW-VaqLSBHvrbbJ9WHDDKxCMUAuQGKlRmj_R6JGgoZ5IzMnVG9JMyd3aJ6724hYb7N_-5a9fKRebdoIw7cQGzEneDIROQV6S80JA6J067VzGILjwn8oIOx1HBc14aMtg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>80.0054945054945,-21.99909553974451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04DD74063C264D7C9221">
+		<name>Arctic Ocean Abiotic Features</name>
+		<description><![CDATA[<div>* Light level:&nbsp; Most animals listed in this map would be either at a "sunlight" (sea level to 200 meters) or the "twilight" zone (200 meters to 1000 meters), where it gets dark rapidly <br></div><div>* Average Depth 3,240 meters<br></div><div>* Max Depth 5,502 meters<br></div><div>* Salinity (how much salt) is between 30 -34 PPT<br></div><div>* No "major" currents listed<br></div><div><br></div><div><a href="https://www.britannica.com/place/Arctic-Ocean">https://www.britannica.com/place/Arctic-Ocean</a><br></div><div><a href="https://oceanservice.noaa.gov/facts/light_travel.html">https://oceanservice.noaa.gov/facts/light_travel.html</a><br></div><div><a href="https://homework.study.com/explanation/how-much-salt-is-in-the-arctic-ocean.html">https://homework.study.com/explanation/how-much-salt-is-in-the-arctic-ocean.html</a><br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-62.3362952672429</longitude>
+			<latitude>65.26915679750006</latitude>
+			<altitude>-124.0588881730028</altitude>
+			<heading>359.9983890034192</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>996155.7464271784</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0185545724264D61A5A0</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUtnQis5a3VCcmFPUW1XcXdIWDhaYm9hZmpKakNIQktFaGVYYmhBdVU4TGczK3Z6YXBtcytCWTMzMEphTWRKQjNUcjltV09HL2t3aXRsZlIvUmdJci8vS2ozR3padDU3RmcrQ3F0ZlhlUWt3b01JZ2MzREpCTU5zRkFWd09JV0xTd0tVaHhac1l1RTc3N3dLd09YbWdUSFIrOGk1WnAvQUtRUktuVCs3VDZQcWc0ZENJNndwSjVtSklaNGdsdk5WekVSM2tWbzhtVVVHV283NHpnRW90VHp2aWRnaE5XTkM1eGJkS1Y1bDVlbDRPRk1hTHVnQg">
+				<gx:ImageUrl>https://doc-00-4s-mymaps.googleusercontent.com/untrusted/hostedimage/h5kve7ano7nfv7647e13frslbg/uqqfu951cmrorlhmim70cn77qk/1671146282000/iR_ZpOL8abZ3_7OzFbjngBuNbfvHlfn9/03984634554912069166/5AKgB-9mskhbm1M9zW7SJCIDCUbWDNLGsF28QSuelNnJ-AcryC0H-vy9RHwlAbdI4PcrK15jUGvx8YgTl_nMOltRg96VvvdM19nipm_2lbr9QgkzoZThgIFtz-wjc_YuFTPRezuPZGYR-Pul6ejP3IK84uJvpW3VV3XOZGSdkVHEa9clEfebPGyRiVKRlN3B2p5l-5g?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-60.08016431678963,65.32778692432592,-260.2365343205495</coordinates>
+		</Point>
 	</Placemark>
 </Document>
 </kml>
