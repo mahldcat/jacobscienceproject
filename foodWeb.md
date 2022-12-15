@@ -1,27 +1,26 @@
 ```mermaid
 flowchart LR
-  killerwhale[Killer Whales<br>Apex Predator]
-  seal[Sea Lions]
-  barracuda[Barracuda]
-  dolphin[Dolphins<br>Apex Predator]
+  killerwhale[Killer Whales<br>Apex<br>Predator<br>Carnivore<br>Consumer]
+  seal[Sea Lions<br>Tertiary<br>Predator<br>Prey<br>Carnivore<br>Consumer]
+  barracuda[Barracuda<br>Secondary<br>Predator<br>Prey<br>Carnivore<br>Consumer]
+  dolphin[Dolphins<br>Apex<br>Predator<br>Carnivore<br>Consumer]
   
-  squid[Squid]
-  penguin[Penguins]
-  krill[Krill]
-  clam[Clams]
+  squid[Squid<br>Secondary<br>Predator<br>Prey<br>Omnivore<br>Consumer]
+  penguin[Penguins<br>Tertiary<br>Predator<br>Prey<br>Carnivore<br>Consumer]
+  krill[Krill<br>Primary<br>Predator<br>Prey<br>Omnivore<br>Consumer]
+  clam[Clams<br>Primary<br>Predatory<br>Prey<br>Omnivore<br>Consumer]
 
-  sardine[Sardines]
-  cod[Cod<br>Fish] 
-  salmon[Salmon<br>Fish]
-  herring[Herring<br>Fish]
-  tuna[Tuna<br>Fish]
+  sardine[Sardines<br>Primary<br>Predator<br>Prey<br>Omnivore<br>Consumer]
+  cod[Cod<br>Secondary<br>Predator<br>Prey<br>carnivore<br>Consumer] 
+  salmon[Salmon<br>Secondary<br>Predator<br>Prey<br>carnivore<br>Consumer]
+  herring[Herring<br>Secondary<br>Predator<br>Prey<br>carnivore<br>Consumer]
+  tuna[Tuna<br>Secondary<br>Predator<br>Prey<br>carnivore<br>Consumer]
   
-  
-  anchovie[Anchovies]
+  anchovie[Anchovies<br>primary<br>Prey<br>Herbivore<br>Consumer]
   
   %%Plants
-  plankton[Plankton]
-  algae[Algae]
+  plankton[Plankton<br>Producer<br>Special Case]
+  algae[Algae<br>Producer]
   
   photosyn[Photosynthesis]
     
