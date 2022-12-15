@@ -76,8 +76,6 @@ This is an excel spreadsheet that contains the data and graphs for the different
    2.  Barnacle on a Humpback whale.  The barnacle attaches to the whale without injuring it.  The barnacle then gets food as the whale feeds.
        1.  https://saveourseas.com/sosf-shark-education-centre/amazing-ocean-relationships/ 
 
-## Abiotic vs Biotic Features
-
 ## Note From Jacob's father
 I had to help Jacob quite a bit with this project, as I thought that this was the perfect opportunity to also expose him to different and new technologies namely
 
@@ -85,3 +83,13 @@ I had to help Jacob quite a bit with this project, as I thought that this was th
 * We both have never used Google Earth to produce maps
 * He only has a basic understanding of spreadsheets
 * He has never used mermaid (markup) to produce graphics
+
+## Further Followup for Thursday
+* Add additional items mapping out abiotic factors in the google earth map
+  * POI:  Each ocean
+    * Temperature graph
+    * https://oceanservice.noaa.gov/facts/light_travel.html  light info for each creature
+    * Average depth, max depth
+    * Add a chart that shows the salinity for each ocean
+    * Ocean Currents https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html
+
