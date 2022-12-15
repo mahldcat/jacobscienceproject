@@ -7,7 +7,7 @@ Directions to import this file can be found here:
 1. Save this file: [Jacob's Biome Model.kml](https://raw.githubusercontent.com/mahldcat/jacobscienceproject/main/Jacob's%20Biome%20Model.kml) to disk
 2. Next you will need to follow the directions here: https://support.google.com/earth/answer/7365595?hl=en&co=GENIE.Platform%3DDesktop 
 
-Note:  A video of this map can be seen at https://youtu.be/oTztfc3mCYU
+Note:  A video of this map can be seen at [https://youtu.be/oTztfc3mCYU](https://youtu.be/PxbHe3ZIv2A)
 
 ### Summary from the google earth map
 Science Project
@@ -93,3 +93,4 @@ I had to help Jacob quite a bit with this project, as I thought that this was th
 * We both have never used Google Earth to produce maps
 * He only has a basic understanding of spreadsheets
 * He has never used mermaid (markup) to produce graphics
+* Zoom conferencing software (to produce the recording)
