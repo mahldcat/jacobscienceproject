@@ -92,4 +92,5 @@ I had to help Jacob quite a bit with this project, as I thought that this was th
     * Average depth, max depth
     * Add a chart that shows the salinity for each ocean
     * Ocean Currents https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html
+ * Rerecord the video
 
