@@ -93,14 +93,3 @@ I had to help Jacob quite a bit with this project, as I thought that this was th
 * We both have never used Google Earth to produce maps
 * He only has a basic understanding of spreadsheets
 * He has never used mermaid (markup) to produce graphics
-
-## Further Followup for Thursday
-* Add additional items mapping out abiotic factors in the google earth map
-  * POI:  Each ocean
-    * Temperature graph
-    * https://oceanservice.noaa.gov/facts/light_travel.html  light info for each creature
-    * Average depth, max depth
-    * Add a chart that shows the salinity for each ocean
-    * Ocean Currents https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html
- * Rerecord the video
-
