@@ -7,11 +7,19 @@ Mrs. Olsen
 
 This attempts to map out where several animals can be found a Marine Biome. 
 
-The animals in this map are a simple food web 
+The animals in this map form a simple food web, and are examples of biotic features
 * Plankton
 * Krill
 * Herring
 * Killer Whale
+* Penguins
+
+Abiotic features of a marine biome include
+* Sunlight (which is the start for every food chain) 
+* Temperature (see the Weather Graphs spreadsheet for further details)
+* Ocean Depth 
+* Amount of Oxygen in the water
+* Amount of Salt
 
 About the Plankton:
 I also learned there more than 2 types of plankon.  There are also
@@ -26,7 +34,7 @@ https://www.fisheries.noaa.gov/species/pacific-herring
 https://www.fisheries.noaa.gov/species/atlantic-herring
 https://education.nationalgeographic.org/resource/plankton
 https://en.wikipedia.org/wiki/Bacterioplankton</description>
-	<gx:CascadingStyle kml:id="__managed_style_120DEC313126383611EC">
+	<gx:CascadingStyle kml:id="__managed_style_2B8472506426490FE69C">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -49,7 +57,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_0BCD56F49126383611EC">
+	<gx:CascadingStyle kml:id="__managed_style_19E1C6734326490FE69C">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -71,14 +79,14 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_048EC2E8D226383611EB">
+	<StyleMap id="__managed_style_05CF85A14626490FE69C">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_0BCD56F49126383611EC</styleUrl>
+			<styleUrl>#__managed_style_19E1C6734326490FE69C</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_120DEC313126383611EC</styleUrl>
+			<styleUrl>#__managed_style_2B8472506426490FE69C</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Placemark id="08DC59D6562637DD565F">
@@ -94,7 +102,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>6739086.879669428</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
+		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -118,7 +126,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>3707840.968496203</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
+		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -131,7 +139,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 	</Placemark>
 	<Placemark id="08DF80C9B52637F89777">
 		<name>Orca, Krill, Plankton (Antartica) #1</name>
-		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div>]]></description>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Penguin&nbsp;</div><div>* Consumer<br></div><div>* Predator and Prey<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div>]]></description>
 		<LookAt>
 			<longitude>147.4309335996909</longitude>
 			<latitude>-65.6472865392013</latitude>
@@ -142,7 +150,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>10803482.22276449</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
+		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -155,7 +163,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 	</Placemark>
 	<Placemark id="0C3EFF08432637F8E5BC">
 		<name>Orca, Krill, Plankton (Antartica) #2</name>
-		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div>]]></description>
+		<description><![CDATA[<div>Orca<br></div><div>* Orcas are the Ocean's Top Predator (Apex Predator)<br></div><div>* Consumer<br></div><div>* Note: Orcas can be found in all Marine Biomes, this location was listed as one of the areas where they are most common.<br></div><div><br></div><div>Penguin&nbsp;<br></div><div>* Consumer<br></div><div>* Predator and Prey<br></div><div><br></div><div>Krill<br></div><div>* Herbivores<br></div><div>* Consumer<br></div><div>* Note: Krill can ALSO be found in all Marine Biomes, however this location was also listed as one of the more common regions where they can be found.<br></div><div><br></div><div>Plankton<br></div><div>* Phytoplankton: Producer (Photsynthesis), [plants]<br></div><div>* ZooPlankton: Consumer, both predator and prey<br></div>]]></description>
 		<LookAt>
 			<longitude>-141.1230244788508</longitude>
 			<latitude>-78.52218075419349</latitude>
@@ -166,7 +174,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>11792752.87083507</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
+		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -190,7 +198,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>7006941.547189951</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
+		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -214,7 +222,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>2758849.91161108</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
+		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -238,7 +246,7 @@ https://en.wikipedia.org/wiki/Bacterioplankton</description>
 			<range>3888091.483996511</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_048EC2E8D226383611EB</styleUrl>
+		<styleUrl>#__managed_style_05CF85A14626490FE69C</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
