@@ -1,5 +1,5 @@
 # Biome Science Project
-This is comprised of several different files 
+This project is made up of several different files 
 
 ## Model/Map of a Marine Biome
 This is a map made in Google Earth to showcase the location of several marine animals, and details regarding if they are producer/consumers or predator/prey
@@ -41,6 +41,8 @@ This is an excel spreadsheet that contains the data and graphs for the different
        1. https://www.marinebio.org/conservation/marine-ecology/symbionts-parasites/ 
    2.  Barnacle on a Humpback whale.  The barnacle attaches to the whale without injuring it.  The barnacle then gets food as the whale feeds.
        1.  https://saveourseas.com/sosf-shark-education-centre/amazing-ocean-relationships/ 
+
+## Abiotic vs Biotic Features
 
 ## Note From Jacob's father
 I had to help Jacob quite a bit with this project, as I thought that this was the perfect opportunity to also expose him to different and new technologies namely
