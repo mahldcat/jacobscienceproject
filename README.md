@@ -10,7 +10,7 @@ Directions to import this file can be found here:
 Note:  A video of this map can be seen at https://youtu.be/oTztfc3mCYU
 
 ### Summary from the google earth map
-The summary: Science Project
+Science Project
 Mrs. Olsen
 
 This attempts to map out where several animals can be found a Marine Biome. 
@@ -26,8 +26,8 @@ Abiotic features of a marine biome include
 * Sunlight (which is the start for every food chain) 
 * Temperature (see the Weather Graphs spreadsheet for further details)
 * Ocean Depth 
-* Amount of Oxygen in the water
 * Amount of Salt
+* Major Ocean Currents
 
 About the Plankton:
 I also learned there more than 2 types of plankon.  There are also
@@ -42,6 +42,16 @@ https://www.fisheries.noaa.gov/species/pacific-herring
 https://www.fisheries.noaa.gov/species/atlantic-herring
 https://education.nationalgeographic.org/resource/plankton
 https://en.wikipedia.org/wiki/Bacterioplankton
+https://www.britannica.com/place/Arctic-Ocean
+https://oceanservice.noaa.gov/facts/light_travel.html
+https://homework.study.com/explanation/how-much-salt-is-in-the-arctic-ocean.html
+https://oceanliteracy.unesco.org/how-deep-is-the-ocean/
+https://oceanservice.noaa.gov/facts/light_travel.html
+https://www.britannica.com/place/Indian-Ocean/Upwelling
+https://oceanexplorer.noaa.gov/facts/pacific-size.html
+https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html
+https://www.britannica.com/place/Atlantic-Ocean
+
 
 ## Food Web
 [FoodWeb](https://github.com/mahldcat/jacobscienceproject/blob/main/foodWeb.md)
